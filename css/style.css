@@ -258,7 +258,7 @@ line-height: 54px;
 color: #BC9060;
 }
 .sub-item {
- font-family: 'Open Sans'
+ font-family: 'Open Sans';
 font-size: 20px;
 line-height: 27px;
 color: #000000;
@@ -504,7 +504,7 @@ margin-bottom: 44px;
 .cooks-img {
  display: flex;
  gap: 30px;
- margin-bottom: 69px;
+ margin-bottom: 65px;
 }
 
 
